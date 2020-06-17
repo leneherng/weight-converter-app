@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weight-converter-app/static/css/main.c0ed9d3e.chunk.css",
+    "main.js": "/weight-converter-app/static/js/main.36b8fbe9.chunk.js",
+    "main.js.map": "/weight-converter-app/static/js/main.36b8fbe9.chunk.js.map",
+    "runtime-main.js": "/weight-converter-app/static/js/runtime-main.2d8a5d6c.js",
+    "runtime-main.js.map": "/weight-converter-app/static/js/runtime-main.2d8a5d6c.js.map",
+    "static/js/2.3cbb2b3a.chunk.js": "/weight-converter-app/static/js/2.3cbb2b3a.chunk.js",
+    "static/js/2.3cbb2b3a.chunk.js.map": "/weight-converter-app/static/js/2.3cbb2b3a.chunk.js.map",
+    "index.html": "/weight-converter-app/index.html",
+    "precache-manifest.c33b442f40bcc9c8d0b06691772fcec2.js": "/weight-converter-app/precache-manifest.c33b442f40bcc9c8d0b06691772fcec2.js",
+    "service-worker.js": "/weight-converter-app/service-worker.js",
+    "static/css/main.c0ed9d3e.chunk.css.map": "/weight-converter-app/static/css/main.c0ed9d3e.chunk.css.map",
+    "static/js/2.3cbb2b3a.chunk.js.LICENSE.txt": "/weight-converter-app/static/js/2.3cbb2b3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d8a5d6c.js",
+    "static/js/2.3cbb2b3a.chunk.js",
+    "static/css/main.c0ed9d3e.chunk.css",
+    "static/js/main.36b8fbe9.chunk.js"
+  ]
+}
